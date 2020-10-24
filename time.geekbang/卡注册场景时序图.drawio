@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T01:13:42.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="VJGrR_XMNrG4VFWikrQZ" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T01:38:30.503Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="HJxcqSfthovkvDe6Um_t" version="13.8.1" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="740" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="53CZZgBoNaDwPZmtHsrw-4" value="&lt;span&gt;卡管理系统&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="190" width="100" height="450" as="geometry" />
+          <mxGeometry x="220" y="190" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="53CZZgBoNaDwPZmtHsrw-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-4" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="100" as="geometry" />
@@ -21,40 +21,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="53CZZgBoNaDwPZmtHsrw-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-4" vertex="1">
-          <mxGeometry x="45" y="210" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="220" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="53CZZgBoNaDwPZmtHsrw-6" value="&lt;span&gt;统计系统&lt;br&gt;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="190" width="100" height="450" as="geometry" />
+          <mxGeometry x="570" y="190" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="53CZZgBoNaDwPZmtHsrw-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-6" vertex="1">
-          <mxGeometry x="45" y="210" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="220" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="53CZZgBoNaDwPZmtHsrw-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-6" vertex="1">
           <mxGeometry x="45" y="320" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="53CZZgBoNaDwPZmtHsrw-10" value="&lt;span&gt;交易系统&lt;br&gt;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="190" width="100" height="450" as="geometry" />
+          <mxGeometry x="400" y="190" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="53CZZgBoNaDwPZmtHsrw-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-10" vertex="1">
           <mxGeometry x="45" y="120" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="53CZZgBoNaDwPZmtHsrw-28" value="返回用户注册统计" style="html=1;verticalAlign=bottom;endArrow=block;dashed=1;" parent="53CZZgBoNaDwPZmtHsrw-10" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-120" y="270" as="sourcePoint" />
-            <mxPoint x="210" y="270" as="targetPoint" />
+            <mxPoint x="-120" y="280" as="sourcePoint" />
+            <mxPoint x="210" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="53CZZgBoNaDwPZmtHsrw-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-10" vertex="1">
           <mxGeometry x="45" y="320" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="53CZZgBoNaDwPZmtHsrw-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0.2;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="53CZZgBoNaDwPZmtHsrw-11" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="276" y="320" as="sourcePoint" />
-            <mxPoint x="440" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="53CZZgBoNaDwPZmtHsrw-21" value="请求开卡缴费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="300" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="53CZZgBoNaDwPZmtHsrw-24" value="返回缴费结果" style="html=1;verticalAlign=bottom;endArrow=block;dashed=1;" parent="1" target="53CZZgBoNaDwPZmtHsrw-18" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -65,14 +56,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="53CZZgBoNaDwPZmtHsrw-25" value="请求用户注册统计" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=blockThin;startFill=1;endFill=0;" parent="1" edge="1">
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-25" value="请求用户注册统计" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=block;startFill=1;endFill=0;" parent="1" edge="1">
           <mxGeometry x="0.0303" width="80" relative="1" as="geometry">
-            <mxPoint x="280" y="420" as="sourcePoint" />
-            <mxPoint x="610" y="420" as="targetPoint" />
+            <mxPoint x="280" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="430" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53CZZgBoNaDwPZmtHsrw-33" value="请求用户交易统计" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=blockThin;startFill=1;endFill=0;" parent="1" edge="1">
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-33" value="请求用户交易统计" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=block;startFill=1;endFill=0;" parent="1" edge="1">
           <mxGeometry x="0.0303" width="80" relative="1" as="geometry">
             <mxPoint x="460" y="530" as="sourcePoint" />
             <mxPoint x="615" y="530" as="targetPoint" />
@@ -83,6 +74,12 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="460" y="570" as="sourcePoint" />
             <mxPoint x="615" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhzNfcmRCtu9zt1thWys-2" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;请求开卡缴费&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="280" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
