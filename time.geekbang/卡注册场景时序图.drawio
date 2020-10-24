@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T10:19:06.739Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="096ib2L3csm8DWaPwCf-" version="13.8.1" type="github"><diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">7VpZb+M2EP41fNxAt6VHy0f3YVsETYG2eaMlWhJCiwJFx3Z/fUmKuiVfcRLvIoGBkCNyKM983xyEgTnb7H+jMIt/JyHCwNDCPTDnwDB0XTP4PyE5FBLbU4KIJqFaVAuekv+QEmpKuk1ClLcWMkIwS7K2MCBpigLWkkFKya69bE1w+9QMRqgneAog7kv/TkIWF1LX1mr5d5REMau+sHqygsFLRMk2VecBw1zLv+LxBpa61Po8hiHZNUTmApgzSggrRpv9DGFh29Jsxb7lyNPqvSlK2TkbbHP2/Bz55A843z0+b9j3nO6+WYWWV4i3qPwaDub6/DyDKR9HYgwWNnDnYKqDxQRMF2rgacB1xMA3ge/LgQ+8ZamAv0lLR2EEdigNz+2RieF2g38ka4STlM/8DNFkgxii/AlW4sda5u/ihKGnDAZi645DkstitsF8pvMhRwmDfAut5hjDLE9W8lSNSygKtjRPXtGfKC/AKKRky8RJswpkWvXKr4gytB81ul65klMEEf6e9MCXqA2V9xU7dE/NdzXWKkTFDZxZJQChwndU6a59zAfKzRe4XHcHfN7xTcOiGUlSJt/B9oE977iIUBaTiKQQN510luHG8ThqTctuG1MbMmbfltW629vS69uSc8WfA8+WpLHBlA8cQZGpKyUOcGdgYQF/Kj6KKytaU80V8qkv1/hClRgsJef4Xh1Mlz13oZCHNDWtPbKopU2KQJxEqWAXWiueB0ka/ZCzOTe+j9JwKgIrn64wCV4EaUSYQ6HiBXchPfyj1MnJvy3GiNdpB3RII3TM7SUmr8UHRRgyzul2dhjwttr6KEBd48puk9TtwCUnWxogtadGDDcSPDSWKaace8qkE647q723rC4RX2O7eNka6ZXxrge/MflVAkkVNU4Eki4wbhZHnDPTcJlieZCo0vBw9m1ElK983ODg5P7ysX3HNHJ+KhoZA+n45zSlaXyyKcvDToYkWclMLVGceC7wzK+QdGFIsrT7C0n6HfNI146bs9MjfDaRjIF2S9T4S+BZoiHwOEUWsp22ZIvAa3z+dDLUNPSy/xGfCMsmAcRTVe2vCGNkM1zdhzCPZXGvj5fwV7ulYffSxm+s1r/pnaa6LI5PFew9TRUSxhQVjUtP0a0qaNP4ZXj26QnLGEpY3T65xj7JUFqwYZng0sB8pi4odaOdNKqWV3swWk3vg27YpWC+B40GeX5ozho+OdYp99LGOc3zSH5pesK5DfWMiTPs9UuZZ1nacUXvzDxjIMOJsLosQ68OXENG3BnwLRmweaHj9RDFWcXaSMkZJS+8SsBEuDolsmRZc4x1ROU1TMD9LZnajdibJAzl3c1QPdO+kLlBFWJ2HTJwt2YP8Lnrt9vxeeBqejBvdjyksqQpC9IF8GaflSUvu/v6iMTZI51zJXtN74SiEfZeemPWLY3Lc973WmugHx8MDR9fsKnQkXPzshY8/4qTtHzQzmdqdknKGY0R2oNmamYvLNwInZUe5Wzr2tzi6CcUjaCzVlQuJOt1jt6n8jOvB5kcd+PdF8jOC4FOGxu2eTXI7OOK7gFk56bQjwfZm5Lqh+TKLlCu7TF7QLlZj8mn9a8HiuX1TzTMxf8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-24T01:13:42.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="VJGrR_XMNrG4VFWikrQZ" version="13.8.1" type="github">
+  <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
+    <mxGraphModel dx="740" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-4" value="&lt;span&gt;卡管理系统&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="190" width="100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-4" vertex="1">
+          <mxGeometry x="45" y="100" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-19" value="录入注册人&lt;br&gt;身份信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="53CZZgBoNaDwPZmtHsrw-4" target="53CZZgBoNaDwPZmtHsrw-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="80" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="50" y="70" />
+              <mxPoint x="90" y="70" />
+              <mxPoint x="90" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-4" vertex="1">
+          <mxGeometry x="45" y="210" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-6" value="&lt;span&gt;统计系统&lt;br&gt;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="190" width="100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-6" vertex="1">
+          <mxGeometry x="45" y="210" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-6" vertex="1">
+          <mxGeometry x="45" y="320" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-10" value="&lt;span&gt;交易系统&lt;br&gt;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="190" width="100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-10" vertex="1">
+          <mxGeometry x="45" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-28" value="返回用户注册统计" style="html=1;verticalAlign=bottom;endArrow=block;dashed=1;" parent="53CZZgBoNaDwPZmtHsrw-10" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-120" y="270" as="sourcePoint" />
+            <mxPoint x="210" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-10" vertex="1">
+          <mxGeometry x="45" y="320" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0.2;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="53CZZgBoNaDwPZmtHsrw-11" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="276" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-21" value="请求开卡缴费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-24" value="返回缴费结果" style="html=1;verticalAlign=bottom;endArrow=block;dashed=1;" parent="1" target="53CZZgBoNaDwPZmtHsrw-18" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="440" y="360" as="sourcePoint" />
+            <mxPoint x="390" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-25" value="请求用户注册统计" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=blockThin;startFill=1;endFill=0;" parent="1" edge="1">
+          <mxGeometry x="0.0303" width="80" relative="1" as="geometry">
+            <mxPoint x="280" y="420" as="sourcePoint" />
+            <mxPoint x="610" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-33" value="请求用户交易统计" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=blockThin;startFill=1;endFill=0;" parent="1" edge="1">
+          <mxGeometry x="0.0303" width="80" relative="1" as="geometry">
+            <mxPoint x="460" y="530" as="sourcePoint" />
+            <mxPoint x="615" y="530" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-34" value="返回用户交易统计" style="html=1;verticalAlign=bottom;endArrow=block;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="460" y="570" as="sourcePoint" />
+            <mxPoint x="615" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
