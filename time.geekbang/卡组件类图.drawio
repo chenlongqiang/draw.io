@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T02:46:38.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="awGLnsH442I-TuuRxi7r" version="13.8.1" type="github"><diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">7Zhdb9owFIZ/TaTuYlM+oB+XJXRdt1abRqVdm9gkVh2fyDGF9NfvOLZJA41EJzpuQBHEr48d5zyvjZMgScv1rSJV8QCUiSAO6TpIpkEcX4xC/DZCY4XRlRNyxamVok6Y8RfmRB+25JTVvUANIDSv+mIGUrJM9zSiFKz6YQsQ/atWJGc7wiwjYlf9w6kurHo5Djv9G+N54a8cha5mTrKnXMFSuusFcbJoP7a6JL4vF18XhMLqlZTcBEmqALQ9K9cpEya1Pm223deB2s24FZN6nwa3D8338secrcRPGr5cRXeP+fSz6+WZiKXLR0oUdQPWjU9SveKlIBJLkwVIPXM1EZaJ4LnE8wyHwRQKz0xpjvm9dhUaKlSzggt6TxpYmsHWGpPnS5MCFH/BbolwfWK10s4q8XkvYmZaohyiqliNMb98BqIt6YGse4H3pNZOyEAIUtV8vrmNkqicywloDaULcqnB22HrwZxHG5I4QRiUTKsGQ1yD2Nuo2bjHlled1TYzoXhtMz+LiLN3vum7Q4wnjvI7iMc7xIN44hpdm1+8s238mADdYlHwxFIQgJynEqwfuBBbkreEYAs9aIi6IhmX+X0bMx11ym+XBSMBtl2IdtYUnFImDUzQRBNLzmCqAIfcZmk8wQPzloZfxsEYB55iOerKeJhwpVOQeC+EtxAZ2mLFjDX2Iz48j3Zt4LCjh/ei7uMODv1qAPqyZkqSkln0mBPM/4n+gemP4yPT9xfbwT8nuKhnjj5lGS9xCT7hPyz+i8sj40/eoL/FWPCWnWXst0HRPwEuEZVgHdFHA9zkaJt6sks9eYOwIHMmfkHNNQfTv7KxW+SPBTcKR/vRvfwguKOBqQ0Vk2Yrd+aX+E92ls9xb32a4od2QXTsJf78TRukcXAdEkondp0/y9AQd7i7T0mJzy3aWQKfokhz8sShPZHsu+6PPsgTF8OewIfpelmeDPFfDXG+7yLx/v8KLHYvEtq6Vy9rkpu/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-24T05:24:50.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="t93xJHJOD_dQTHsE9qja" version="13.8.1" type="github">
+  <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
+    <mxGraphModel dx="740" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GMyJmKbewlOd0z91ITgD-1" value="Card" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="110" width="210" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="GMyJmKbewlOd0z91ITgD-2" value="+ id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="GMyJmKbewlOd0z91ITgD-1" vertex="1">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GMyJmKbewlOd0z91ITgD-9" value="+ username: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="GMyJmKbewlOd0z91ITgD-1" vertex="1">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GMyJmKbewlOd0z91ITgD-10" value="+ balance: decimal" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="GMyJmKbewlOd0z91ITgD-1" vertex="1">
+          <mxGeometry y="78" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GMyJmKbewlOd0z91ITgD-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="GMyJmKbewlOd0z91ITgD-1" vertex="1">
+          <mxGeometry y="104" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="GMyJmKbewlOd0z91ITgD-4" value="+ openCard(username): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="GMyJmKbewlOd0z91ITgD-1" vertex="1">
+          <mxGeometry y="112" width="210" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
