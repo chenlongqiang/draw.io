@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T01:12:26.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="DJLpPD5KRYiPltPZUAGO" version="13.8.1" type="github"><diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">7Vhbc5s4FP41emwHEGB4NDZuH9pOptmZ3c2bDDJoIhAj5NjeX78SiDtx7cRtMp36wSMdiSP8XY4kA7jKjp84KtKvLMYUWEZ8BHANLGthG/JbBU51wPZ1IOEkrkNmF7gn/2EdbKbtSYzLwUTBGBWkGAYjluc4EoMY4pwdhtN2jA5XLVCCJ4H7CNFp9G8Si7SOeo7RxT9jkqTNyqahR7Yoekw42+d6PWDBXfWphzPU5NLzyxTF7NALwRDAFWdM1K3suMJUQdvAVj+3eWa0fW+Oc3HJAw5cPTwkAfuG1oe7h0x8Lvnhg11neUJ0j5uf4VKZLygLlMt2otogdIC3BksThAuwDHVDEu25qhFAEARVIwD+pkkg32SQowZBnBrgJR6Fau4z+oXsMCW57AUF5iTDAnM5QnX4rosFh5QIfF+gSD16kIqUsVRkVPZM2ZQqEUg+wts+pagoybZa1ZARjqM9L8kT/o7LWowqyvZCrbRqRWa0r9xHWIP+hLnAx15II/4JM/me/CSn6NGWfe0Os3HHodNaq6i0pzPY+AppfSdt7o5j2dA0X0G56c1wPuKmh2jBSC6qd3AC4KxHFDEuUpawHNE+SVPgzorvYjRtZwimMQfmFMt23s2xdC+0T2ON0OvsM++aLe8M88dHLfPO4v35yHkvPnKvRXPkIwte5iPvp0FpXOgjGwRLsLRB6ALfAz7846NrmTfen4/MGfLfxEetDF+8IVlvbCRo/TZYvnlRsuaK0ghLnMdLdQdRaBU4l/DIyIbQBmDZ0zce0xoWBokeP/2jjP3Rarr/Vl3TcprA+qidX/dO/V6Pk/PFQSCe4LNU6Yk4HtyUpkT1mXA1OhxTJGT1Giw5x4VOd6ck1zsfL9wB69Aa0VmyPY+wfqp/uxklsm3jfKIahkmiShrtb3yFWmaqmDrtbUCwUNtVYALPqnapFQhsNSS/A3+iKGkWMVRKKTh7lDsBZYrqnFXb0k5qbBRClCRSgetICqByqrIekRfdpR7ISByrZWb3rOoii+Pb7TRwTMjMYd2Z8fOYt9v5eeauq2jYAN9WF1xfHh/CGYb0yQJWh44Q+KtzFXWM+ZYJwbK6EjSVYktZ9ChDMSrTCnHzdfb1rrevdxv3TkznvtC90P9BomfcKyFFp940vaE9/8LG/DqdruqMNy0NEF5YGqQOl56KeF41NHvaHd4jXylFXTpKCa8YyPOvlOTNwHA/072zVeKHUtR0GB8NaMBJWbiVOt0h2fb4CHupOl3TOZ/oGXV2iZqJbLcr8U/Zf+Cl1e3Xi+y6evcWZWwslPGZ8sVCGSd68SFEdrt/iuvp3b/xMPwf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-24T01:33:15.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="DX9huTYCLdVwOqzLklwS" version="13.8.1" type="github">
+  <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
+    <mxGraphModel dx="740" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-4" value="&lt;span&gt;卡管理系统&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="190" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="b5Iy8NZqnuBlVS6-48hM-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="53CZZgBoNaDwPZmtHsrw-4">
+          <mxGeometry x="45" y="90" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-6" value="&lt;span&gt;统计系统&lt;br&gt;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="190" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-6" vertex="1">
+          <mxGeometry x="45" y="210" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-10" value="&lt;span&gt;交易系统&lt;br&gt;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="190" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-10" vertex="1">
+          <mxGeometry x="45" y="90" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="53CZZgBoNaDwPZmtHsrw-10" vertex="1">
+          <mxGeometry x="45" y="210" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-24" value="返回缴费结果" style="html=1;verticalAlign=bottom;endArrow=block;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="440" y="340" as="sourcePoint" />
+            <mxPoint x="275" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-33" value="请求用户交易统计" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=block;startFill=1;endFill=0;" parent="1" edge="1">
+          <mxGeometry x="0.0303" width="80" relative="1" as="geometry">
+            <mxPoint x="460" y="420" as="sourcePoint" />
+            <mxPoint x="615" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53CZZgBoNaDwPZmtHsrw-34" value="返回用户交易统计" style="html=1;verticalAlign=bottom;endArrow=block;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="460" y="460" as="sourcePoint" />
+            <mxPoint x="615" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5Iy8NZqnuBlVS6-48hM-4" value="请求缴费" style="html=1;verticalAlign=bottom;endArrow=block;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="0.0303" width="80" relative="1" as="geometry">
+            <mxPoint x="280" y="300" as="sourcePoint" />
+            <mxPoint x="435" y="300" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
