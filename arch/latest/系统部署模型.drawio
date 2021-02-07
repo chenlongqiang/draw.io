@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T03:01:23.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.2.9" etag="w7jkUT0TFZ1owSq9x3g0" type="github"><diagram id="kcfmbpfTHpmaVw5CD32C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-07T03:45:27.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="KVe5f0xYs8WlYF_cS7IM" version="14.2.9" type="github">
+  <diagram id="kcfmbpfTHpmaVw5CD32C" name="第 1 页">
+    <mxGraphModel dx="740" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aOjKXOojJ6osxoidm33I-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="aOjKXOojJ6osxoidm33I-1" target="aOjKXOojJ6osxoidm33I-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="198" y="533" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="68" height="56.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="aOjKXOojJ6osxoidm33I-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="1">
+          <mxGeometry x="210" y="208" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Route_Filters.svg;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="369.49" y="208" width="57.07" height="92.09" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="550" y="534.25" width="71.42" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;entryX=-0.015;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="aOjKXOojJ6osxoidm33I-4" target="aOjKXOojJ6osxoidm33I-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="250" as="sourcePoint" />
+            <mxPoint x="180" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="94" y="230" />
+              <mxPoint x="180" y="190" />
+              <mxPoint x="170" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="396" y="303" as="sourcePoint" />
+            <mxPoint x="395.972" y="381.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-11" value="负载均衡&lt;br&gt;网关服务器" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="434.12" y="222" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;fontSize=16;entryX=0.521;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.074;exitY=0.483;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" target="aOjKXOojJ6osxoidm33I-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354.9680000000001" y="408.98" as="sourcePoint" />
+            <mxPoint x="380" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="223" y="490" />
+              <mxPoint x="175" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;fontSize=16;entryX=0.476;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="aOjKXOojJ6osxoidm33I-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="428" y="410" as="sourcePoint" />
+            <mxPoint x="320" y="577.98" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="584" y="480" />
+              <mxPoint x="614" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-19" value="CDN" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="84" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;entryX=-0.039;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.515;exitY=-0.036;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="aOjKXOojJ6osxoidm33I-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="50" as="sourcePoint" />
+            <mxPoint x="359.5039999999999" y="52" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="95" y="50" />
+              <mxPoint x="162" y="112" />
+              <mxPoint x="152" y="162" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-21" value="微服务集群" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aOjKXOojJ6osxoidm33I-23" target="aOjKXOojJ6osxoidm33I-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-23" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Virtual_Clusters.svg;" vertex="1" parent="1">
+          <mxGeometry x="356.78000000000003" y="386" width="76.31" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-24" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Virtual_Clusters.svg;" vertex="1" parent="1">
+          <mxGeometry x="361.93" y="14" width="72.19" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-26" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Cache_Redis.svg;" vertex="1" parent="1">
+          <mxGeometry x="356.16999999999996" y="533" width="76.92" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="198" y="642" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-30" value="主" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="156" y="542.5" width="42" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-31" value="从" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="156" y="651.5" width="42" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-32" value="MQ 集群" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="428" y="565" width="48" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-33" value="&amp;nbsp;Cache 集群" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="535.09" y="597" width="101.24" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontSize=16;entryX=0.479;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" target="aOjKXOojJ6osxoidm33I-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393.01468" y="642" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-36" value="消息消费者&lt;br&gt;服务器集群" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330.92999999999995" y="710" width="128" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-38" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Virtual_Clusters.svg;" vertex="1" parent="1">
+          <mxGeometry x="359.86999999999995" y="642" width="70.13" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-40" value="防火墙" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="194" y="276" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aOjKXOojJ6osxoidm33I-41" value="用户" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="116" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
